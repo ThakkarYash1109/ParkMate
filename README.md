@@ -45,3 +45,34 @@ python select_slots.py
 ```
 
 **Expected Output:** The system detects parking slot occupancy and displays or saves the parking occupancy results, depending on the script configuration.
+1. What the project does
+ParkMate uses computer vision to detect vehicles and identify empty and occupied parking slots.
+
+2. How to run it
+
+* Install Python and OpenCV.
+* Open the project in VS Code.
+* Run python detect_occupancy.py.
+* Check occupancy using python check_occupancy.
+
+
+
+4. Tools and versions used
+
+* Python
+* OpenCV
+* YOLO
+* Deep Learning
+* Visual Studio Code
+
+5. Team members
+
+* Thakkar Yash — Team Leader & Project Integration
+* Debnath Suraj — AI Model & Vehicle Detection
+* Mayank Chudasama — OpenCV & Image Processing
+* Patel Dharmik — Parking Slot Detection & Testing
+
+GitHub Repository:
+https://github.com/ThakkarYash1109/ParkMate
+
+
