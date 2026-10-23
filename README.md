@@ -55,7 +55,15 @@ ParkMate uses computer vision to detect vehicles and identify empty and occupied
 * Run python detect_occupancy.py.
 * Check occupancy using python check_occupancy.
 
+## Screenshots
 
+### Parking Occupancy Detection
+
+![Parking Occupancy Result](buddhi/occupancy_result.jpg)
+
+### Parking Lot Input
+
+![Parking Lot](buddhi/parking.jpg)
 
 4. Tools and versions used
 
