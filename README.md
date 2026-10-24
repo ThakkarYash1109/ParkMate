@@ -63,15 +63,7 @@ ParkMate uses computer vision to detect vehicles and identify empty and occupied
 
 ### Parking Lot Input
 
-![Parking Lot](parking.jpg)## Screenshots
-
-### Parking Occupancy Detection
-
-![Parking Occupancy Result](buddhi/occupancy_result.jpg)
-
-### Parking Lot Input
-
-![Parking Lot](buddhi/parking.jpg)
+![Parking Lot](parking.jpg)
 
 4. Tools and versions used
 
